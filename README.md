@@ -10,4 +10,4 @@
 ![Screenshot from 2022-03-08 17-02-35](https://user-images.githubusercontent.com/90498108/157203622-03047817-1346-4847-af36-9691f02045a7.png)<br /><br />
 
 #### Challenge  
-* ![Screenshot from 2022-03-08 17-01-44](https://user-images.githubusercontent.com/90498108/157203822-ab7f282f-f927-4077-ba0b-f4da4e41e914.png)  
+![Screenshot from 2022-03-08 17-01-44](https://user-images.githubusercontent.com/90498108/157203822-ab7f282f-f927-4077-ba0b-f4da4e41e914.png)  
