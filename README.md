@@ -11,11 +11,10 @@
 ![Screenshot from 2022-03-08 22-18-33](https://user-images.githubusercontent.com/90498108/157245753-4f3e0d32-f7e2-42a4-8ce8-9e8799914de6.png)<br /><br />
 
 #### Challenge  
-![Screenshot from 2022-03-08 17-01-44](https://user-images.githubusercontent.com/90498108/157203822-ab7f282f-f927-4077-ba0b-f4da4e41e914.png)  
+![Screenshot from 2022-03-08 17-01-44](https://user-images.githubusercontent.com/90498108/157203822-ab7f282f-f927-4077-ba0b-f4da4e41e914.png)<br /><br />
 
 ### 3차 미션  
-#### Basic  
-Basic:  
+#### Basic   
 ![Misson3_Basic](https://user-images.githubusercontent.com/90498108/159502564-9c8b4b06-f55a-421e-8135-1f2be15c447a.gif)<br /><br />
 
 #### Challenge  
