@@ -12,3 +12,12 @@
 
 #### Challenge  
 ![Screenshot from 2022-03-08 17-01-44](https://user-images.githubusercontent.com/90498108/157203822-ab7f282f-f927-4077-ba0b-f4da4e41e914.png)  
+
+### 3차 미션  
+#### Basic  
+Basic:  
+![Misson3_Basic](https://user-images.githubusercontent.com/90498108/159502564-9c8b4b06-f55a-421e-8135-1f2be15c447a.gif)<br /><br />
+
+#### Challenge  
+* Challenge1: ![Mission3_Challenge1](https://user-images.githubusercontent.com/90498108/159502905-f8075ad2-63d4-41f3-b98b-c0a7c7f37131.gif)  
+* Challenge2: https://seonnn.github.io/
