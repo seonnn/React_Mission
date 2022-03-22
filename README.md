@@ -19,5 +19,6 @@ Basic:
 ![Misson3_Basic](https://user-images.githubusercontent.com/90498108/159502564-9c8b4b06-f55a-421e-8135-1f2be15c447a.gif)<br /><br />
 
 #### Challenge  
-* Challenge1:  ![Mission3_Challenge1](https://user-images.githubusercontent.com/90498108/159502905-f8075ad2-63d4-41f3-b98b-c0a7c7f37131.gif)  
+* Challenge1:  
+![Mission3_Challenge1](https://user-images.githubusercontent.com/90498108/159502905-f8075ad2-63d4-41f3-b98b-c0a7c7f37131.gif)  
 * Challenge2: https://seonnn.github.io/
